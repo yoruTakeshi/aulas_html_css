@@ -1,0 +1,25 @@
+body{
+    background-color: #283044;
+}
+
+.bgh2{
+    background: #78A1BB;
+}
+
+#bgh2{
+    background: #78A1BB;   
+}
+
+h2{
+    color: #EBF5EE;
+}
+
+h1{
+    color: #BBB7AE;
+}
+
+li, p{
+    color: #EBF5EE;
+}
+
+/* Cascata */
